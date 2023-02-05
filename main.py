@@ -4,7 +4,7 @@ from mss import mss
 import pyautogui as pg
 import keyboard
 from win32api import GetSystemMetrics
-global monitor
+
 print('Working')
 monitor={}
 
